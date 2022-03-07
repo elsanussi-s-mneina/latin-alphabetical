@@ -2,6 +2,10 @@
 A keyboard layout with the keys in alphabetical order.
 
 
+# Picture of normal layer
+
+![Top row is abcdefghijklm](https://raw.githubusercontent.com/elsanussi-s-mneina/latin-alphabetical/main/Latin%20Alphabetical%20normal%20layer.png) 
+
 
 ## Main Reference used:
 Technical Note TN2056,

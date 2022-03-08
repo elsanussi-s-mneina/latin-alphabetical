@@ -75,7 +75,7 @@ For more information, please refer to <http://unlicense.org>
 			<key code="35" output="j"/>
 			<key code="33" output="k"/>
 			<key code="30" output="l"/>
-			<key code="42" output=""/> <!- we do not use this key because it appears on a different row in ISO keyboards -->
+			<key code="42" output=""/> <!-- we do not use this key because it appears on a different row in ISO keyboards -->
 
 		<!-- Third row from top, from left to right -->
 			<key code="0" output="m"/>
@@ -132,7 +132,7 @@ For more information, please refer to <http://unlicense.org>
 			<key code="35" output="J"/>
 			<key code="33" output="K"/>
 			<key code="30" output="L"/>
-			<key code="42" output=""/>  <!- we do not use this key because it appears on a different row in ISO keyboards -->
+			<key code="42" output=""/>  <!-- we do not use this key because it appears on a different row in ISO keyboards -->
 
 		<!-- Third row from top, from left to right -->
 			<key code="0" output="M"/>
@@ -178,7 +178,7 @@ For more information, please refer to <http://unlicense.org>
 			<key code="35" output="J"/>
 			<key code="33" output="K"/>
 			<key code="30" output="L"/>
-			<key code="42" output=""/>  <!- we do not use this key because it appears on a different row in ISO keyboards -->
+			<key code="42" output=""/>  <!-- we do not use this key because it appears on a different row in ISO keyboards -->
 
 		<!-- Third row from top, from left to right -->
 			<key code="0" output="M"/>
